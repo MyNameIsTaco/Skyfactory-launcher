@@ -1,0 +1,18 @@
+{
+  "name" : "Sky_Factory_3",
+  "title" : null,
+  "gameVersion" : "1.10.2",
+  "features" : [ ],
+  "userFiles" : {
+    "include" : [ ],
+    "exclude" : [
+      "options.txt",
+      "optionsshaders.txt"
+    ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
